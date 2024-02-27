@@ -80,7 +80,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       <br>
       &nbsp;&nbsp;&nbsp;
       <a href="https://github.com/schleu">GitHub</a> |
-      <a href="www.linkedin.com/in/danilo-schleu">LinkedIn</a> |
+      <a href="https://linkedin.com/in/danilo-schleu">LinkedIn</a> |
       <a href="https://www.instagram.com/daniloschleu/">Instagram</a> |
     </p>
 </p>
